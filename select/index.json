@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "鬼ノ宴",
   "base_artist": "友成空",
-  "createdAt": "2026-01-09T18:08:03.349712Z",
+  "createdAt": "2026-02-22T21:10:52.644464Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,14 @@
       "artist": "TOMONARI SORA",
       "has_synced": true,
       "path": "select/04_鬼ノ宴_TOMONARI_SORA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鬼ノ宴 - Demons Banquet",
+      "artist": "Tomonari Sora",
+      "has_synced": true,
+      "path": "select/05_鬼ノ宴_-_Demons_Banquet_Tomonari_Sora.lrc"
     },
     {
       "id": "petitlyrics_1",
